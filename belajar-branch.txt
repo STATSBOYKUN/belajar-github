@@ -1,0 +1,4 @@
+cara buat branch 
+
+1. dari repo
+2. dari edit terus branch
