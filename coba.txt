@@ -2,4 +2,4 @@ HAI HARI INI SAYA BELAJAR GIT
 -bejalar dari sandhika galih
 -kerennn
 
--baris ini, menambahkan kata dari sebelumnya
+-baris ini menghapus dan menambah kata baru ini
